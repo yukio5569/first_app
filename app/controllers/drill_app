@@ -1,0 +1,2 @@
+rails _6.0.0_ new drill_app -d 
+rails db:create
